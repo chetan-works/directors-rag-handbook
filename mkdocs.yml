@@ -1,0 +1,24 @@
+site_name: Director's RAG Handbook
+site_description: An inspectable, open-source RAG learning lab for filmmakers.
+site_url: https://chetan-works.github.io/directors-rag-handbook/
+repo_url: https://github.com/chetan-works/directors-rag-handbook
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: amber
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Deployment: deployment.md
+  - Evaluation: evaluation.md
+  - Security: security.md
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format

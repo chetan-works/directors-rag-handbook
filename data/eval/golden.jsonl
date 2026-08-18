@@ -1,0 +1,5 @@
+{"id":"directing-blocking","question":"How can blocking help a director communicate character relationships?","expected_terms":["blocking","character","scene"],"expected_source_ids":["exploring-directing"]}
+{"id":"shot-vs-take","question":"What is the difference between a shot and a take?","expected_terms":["shot","take","uninterrupted"],"expected_source_ids":["no-nonsense-shot"]}
+{"id":"screen-direction","question":"Why should coverage preserve screen direction?","expected_terms":["screen direction","continuity","camera"],"expected_source_ids":["no-nonsense-screen-direction"]}
+{"id":"mise-en-scene","question":"Which design elements contribute to mise-en-scène?","expected_terms":["setting","lighting","composition"],"expected_source_ids":["moving-pictures-mise-en-scene"]}
+{"id":"shoot-to-edit","question":"What does it mean to shoot to edit?","expected_terms":["edit","shots","continuity"],"expected_source_ids":["no-nonsense-continuity"]}
