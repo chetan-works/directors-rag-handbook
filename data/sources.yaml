@@ -1,0 +1,62 @@
+# Every entry is manually reviewed. The API can fetch only these exact URLs.
+# Re-check license and publisher availability before a public/commercial deployment.
+sources:
+  - id: exploring-directing
+    title: "What Is Directing?"
+    author: "John Reich, Open SUNY Textbooks"
+    url: "https://milnepublishing.geneseo.edu/exploring-movie-construction-and-production/chapter/5-what-is-directing/"
+    kind: html
+    license: "CC BY-NC-SA 4.0"
+    attribution_url: "https://milnepublishing.geneseo.edu/exploring-movie-construction-and-production/chapter/5-what-is-directing/"
+    enabled: true
+    tags: [directing, blocking, performance, mise-en-scene]
+
+  - id: moving-pictures-mise-en-scene
+    title: "Mise-en-Scène"
+    author: "Russell Leigh Sharman, University of Arkansas Libraries"
+    url: "https://wisconsin.pressbooks.pub/movingpictures/chapter/mise-en-scene/"
+    kind: html
+    license: "CC BY-NC-SA 4.0"
+    attribution_url: "https://wisconsin.pressbooks.pub/movingpictures/chapter/mise-en-scene/"
+    enabled: true
+    tags: [mise-en-scene, production-design, lighting, composition]
+
+  - id: moving-pictures-cinematography
+    title: "Cinematography"
+    author: "Russell Leigh Sharman, University of Arkansas Libraries"
+    url: "https://wisconsin.pressbooks.pub/movingpictures/chapter/cinematography/"
+    kind: html
+    license: "CC BY-NC-SA 4.0"
+    attribution_url: "https://wisconsin.pressbooks.pub/movingpictures/chapter/cinematography/"
+    enabled: true
+    tags: [cinematography, lenses, framing, camera-movement]
+
+  - id: no-nonsense-shot
+    title: "The Shot"
+    author: "Jessica Livingstone and Mischa Livingstone, Loyola Marymount University"
+    url: "https://lmu.pressbooks.pub/filmmaking/part/the-shot/"
+    kind: html
+    license: "CC BY-NC-SA 4.0"
+    attribution_url: "https://digitalcommons.lmu.edu/oerfsj-projects/2/"
+    enabled: true
+    tags: [shot-design, composition, angle, camera-movement]
+
+  - id: no-nonsense-screen-direction
+    title: "Screen Direction"
+    author: "Jessica Livingstone and Mischa Livingstone, Loyola Marymount University"
+    url: "https://lmu.pressbooks.pub/filmmaking/chapter/screen-direction/"
+    kind: html
+    license: "CC BY-NC-SA 4.0"
+    attribution_url: "https://digitalcommons.lmu.edu/oerfsj-projects/2/"
+    enabled: true
+    tags: [screen-direction, continuity, coverage, eyelines]
+
+  - id: no-nonsense-continuity
+    title: "Continuity"
+    author: "Jessica Livingstone and Mischa Livingstone, Loyola Marymount University"
+    url: "https://lmu.pressbooks.pub/filmmaking/chapter/continuity/"
+    kind: html
+    license: "CC BY-NC-SA 4.0"
+    attribution_url: "https://digitalcommons.lmu.edu/oerfsj-projects/2/"
+    enabled: true
+    tags: [continuity, editing, coverage, visual-storytelling]
